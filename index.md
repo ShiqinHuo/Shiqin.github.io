@@ -1,7 +1,5 @@
 ## Wow! Welcome to Shiqin's Home! U R Looking at ME!
 
-
-
 ### About Me
 
 <p>Work @ <a href="http://www.huawei.com/">Huawei</a>, Front End Engineer , Love All!</p>
@@ -33,5 +31,3 @@ For more details see [My Linkedin Page](https://www.linkedin.com/in/shiqin-huo-8
 * **Computer Science**
 * **Mathematics**
 * **Business**
-
-
